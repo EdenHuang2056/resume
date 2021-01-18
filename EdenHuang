@@ -6,7 +6,6 @@
 	<title>Document</title>
 </head>
 
-
 <html>
 
 <head>
@@ -14,70 +13,66 @@
 	<title class ="head"> Eden 軟體工程師扶持計畫  </title>
 	<style type ="text/css">
 	.head {background-color:#003344;color:white;font-weight:bold;font-size:30px}
-	.title {font-weight:bold;font-size:30px}
-	.content{width:400px;padding:10px;border:1px}
+	.title {font-weight:bold;font-size:22px;;color:#084C61}
+	.content{padding:10px;border:3px}
 	
-
-
 	</style>
 </head>
 
-
-
 <body>
+	<div align="center"; style="font-family: 'Fjalla One', sans-serif;font-weight:bold;font-size:75px ;color:#084C61">
+	Eden
+	</div>
+	<div align="right" ;  style="font-size:20px">
+	軟體工程師扶持計畫
+	</div>	
 	<div class = "title">個人簡介</div>
 	<div class = "content">從事手機、平板硬體研發工程師已有兩年多的經驗。藉由前輩與同事的分享，讓我對於軟體工程師有更強烈的嚮往。自我的個性比較活潑外向，可以不斷突破自我，找出最佳解決方式的工作性質是比較適合自己的。非本科系畢業的我，需要更多的side project去證明自己的程式能力，想藉由導師完整的課程規劃，建立自己的side project，讓我可以在
 	這大疫情的影響下，轉職成功！</div>
 
 
-	<div>為什麼想成為工程師?</div>
-	<div>硬體工程師就是不斷的try and error，很多時候都是靠經驗的累積去解決問題，有時甚至根本無法合理解釋結果。但我還是喜歡不斷創新，面對未知的挑戰！
+	<div class = "title">為什麼想成為工程師?</div>
+	<div class = "content">硬體工程師就是不斷的try and error，很多時候都是靠經驗的累積去解決問題，有時甚至根本無法合理解釋結果。但我還是喜歡不斷創新，面對未知的挑戰！
 	期許自己可以成為全端工程師，不僅想要深入了解後端的底層架構，也希望前端的網頁介面可以展現出自己的風格。
 	</div>
 
 
-	<div>為了成為工程師，曾經做過什麼努力？</div>
-	<div>2020.07/19~10/18完成了Stancode 的SC001與SC101課程。</div>
-	<div>2020.10/17~11/15完成了台大資訊訓練班的python 進階課程、演算法課程、python基礎刷題班。</div>
-	<div>目前在學習Udemy的The Complete Web Developer 跟 The Complete Junior to Senior Web Developer.</div>
+	<div class = "title">為了成為工程師，曾經做過什麼努力？</div>
+	<div class = "content">2020.07/19~10/18完成了Stancode 的SC001與SC101課程。
+	<br>2020.10/17~11/15完成了台大資訊訓練班的python 進階課程、演算法課程、python基礎刷題班。
+	<br>目前在學習Udemy的The Complete Web Developer 跟 The Complete Junior to Senior Web Developer.
+	</div>
 
-	<div>對於工程師的職業想像是什麼？</div>
-	<div>軟體工程師不會受到環境限制，只要有電腦、網路，都可以完成任務。
+	<div class = "title">對於工程師的職業想像是什麼？</div>
+	<div class = "content">軟體工程師不會受到環境限制，只要有電腦、網路，都可以完成任務。
 	彈性的工作時間，只要能在deadline之前完成交付的任務即可。
 	很多問題並非只有唯一解，可以不斷的挑戰自我，讓程式更精簡更快速、更人性化。
 	</div>
 
 
-	<div>如果參與這個計畫，會怎麼安排學習時間？</div>
-	<div>會全職投入這個計畫，按照課程進度學習，並準時交付作業。
-	週一至週四及週六至少投入12的小時的時間學習，早上觀看每日的課程影片；下午進行實際操作；晚上解決問題，與夥伴交流。</div>
-	<div>每隔兩天提交一次進度報告。週五參與實體課程，與導師請教及同學交流，週日進行複習並規劃隔週課程安排。</div>
+	<div class = "title">如果參與這個計畫，會怎麼安排學習時間？</div>
+	<div class = "content">會全職投入這個計畫，按照課程進度學習，並準時交付作業。
+	週一至週四及週六至少投入12的小時的時間學習，早上觀看每日的課程影片；下午進行實際操作；晚上解決問題，與夥伴交流。
+	<br>每隔兩天提交一次進度報告。週五參與實體課程，與導師請教及同學交流，週日進行複習並規劃隔週課程安排。
+	</div>
 
 
-	<div>如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？</div>
-	<div>工程師一定要學會獨立思考的能力！</div>
-	<div>首先自行找出問題點，重新檢視程式碼、測試每個function是否達到自己預期。</div>
-	<div>上網找答案，釐清問題的根源，檢視自己的錯誤觀念。</div>
-	<div>與夥伴討論、請教助教以及導師，透過前輩的經驗，去優化自己的程式碼、精進自己。</div>
+	<div class = "title">如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？</div>
+	<div class = "content"> <span style="color:red">工程師一定要學會獨立思考的能力！</span>
+	<br>首先自行找出問題點，重新檢視程式碼、測試每個function是否達到自己預期。
+	<br>上網找答案，釐清問題的根源，檢視自己的錯誤觀念。
+	<br>與夥伴討論、請教助教以及導師，透過前輩的經驗，去優化自己的程式碼、精進自己。
+	</div>
 
 
-	<div> 想要對我們說的事情？</div>
-	<div>很謝謝彭彭提供如此完整的計畫，讓更多想要轉職的學員出了社會還有機會學習完整的課程。很希望自己可以成為第一屆的學員，未來跟導師一樣回饋台灣的莘莘學子。</div>
-	<div>1.	轉職在重要的目標是找到工作，除了模擬面試、修改履歷，導師會協助我們與公司媒合嗎？</div>
-	<div>2.	想請問導師，轉職的過程有哪些事一定要完成，可以讓我們在這條路上更順遂；哪是事我們可以先不急著完成甚至是根本沒有幫助的？希望可以讓我們少走一些冤旺路。</div>
+	<div class = "title"> 想要對我們說的事情？</div>
+	<div class = "content">很謝謝彭彭提供如此完整的計畫，讓更多想要轉職的學員出了社會還有機會學習完整的課程。很希望自己可以成為第一屆的學員，未來跟導師一樣回饋台灣的莘莘學子。
+	<ol>
+	<li>轉職在重要的目標是找到工作，除了模擬面試、修改履歷，導師會協助我們與公司媒合嗎？</li>
+	<li>想請問導師，轉職的過程有哪些事一定要完成，可以讓我們在這條路上更順遂；哪是事我們可以先不急著完成甚至是根本沒有幫助的？希望可以讓我們少走一些冤枉路。</li>
+	<ol>
+	</div>
 
 </body>
 
-
-
 </html>
-
-
-
-
-
-
-
-
-
-
